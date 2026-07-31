@@ -1,26 +1,29 @@
 {
-    "Team0WeaponList": [
-        "ak47",
+    "0teamP": [
+        "g43",
+        "m16",
         "ar",
-        "awp",
-        "lmga",
-        "mp5",
-        "p90",
+        "m1garand",
+        "vanas"
+    ],
+    "1teamP": [
+        "ak47",
+        "ak12",
+        "akshorty",
+        "galul",
         "aug"
     ],
-    "Team1WeaponList": [
-        "m4",
-        "m16",
-        "scar",
-        "famas",
-        "ump45",
-        "vector",
-        "g36"
+    "0teamS": [
+        "1911",
+        "57",
+        "m9"
     ],
-    "SecondaryWeaponList": [
+    "1teamS": [
+        "cet9",
         "de",
-        "revolver"
+        "sock"
     ],
-    "SpawnCash": 750,
-    "BuyingEnabled": true
+    "cash": 1600,
+    "howLongCanYouBuySeconds": 90,
+    "buying": true
 }
