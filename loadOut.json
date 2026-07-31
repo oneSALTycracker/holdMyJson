@@ -1,0 +1,26 @@
+{
+    "Team0WeaponList": [
+        "ak47",
+        "ar",
+        "awp",
+        "lmga",
+        "mp5",
+        "p90",
+        "aug"
+    ],
+    "Team1WeaponList": [
+        "m4",
+        "m16",
+        "scar",
+        "famas",
+        "ump45",
+        "vector",
+        "g36"
+    ],
+    "SecondaryWeaponList": [
+        "de",
+        "revolver"
+    ],
+    "SpawnCash": 750,
+    "BuyingEnabled": true
+}
